@@ -1,3 +1,6 @@
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
 <h1 align="center">Hi 👋, I'm Abhishek Rawat</h1>
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI</h3>
 
