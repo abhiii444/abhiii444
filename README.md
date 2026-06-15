@@ -1,12 +1,16 @@
-## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
 <h1 align="center">Hi 👋, I'm Abhishek Rawat</h1>
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI</h3>
 
 <p align="center">
 Transforming raw data into actionable insights through analytics, visualization, and machine learning projects.
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/abhishek-rawat-33hp/
 
 ---
 
